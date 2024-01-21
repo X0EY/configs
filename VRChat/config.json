@@ -1,0 +1,10 @@
+{
+	"cache_expiry_delay": 14,
+	"cache_size": 80,
+	"camera_res_height": 2160,
+	"camera_res_width": 3840,
+	"screenshot_res_height": 2160,
+	"screenshot_res_width": 3840,
+	"disableRichPresence": true,
+	"cache_directory": "E:\\Cache"
+}

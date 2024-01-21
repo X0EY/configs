@@ -1,0 +1,1 @@
+launch options: [-novid -nojoy -high -nod3d9ex -tickrate 128 +cl_forcepreload 1 +fps_max 0 +fps_max_menu 0 -fullscreen +exec autoexec]
